@@ -1,1 +1,2 @@
-Explain what the upstream remote is usually used for, in your own words.
+The Upstream branch in git refers, usually, to the GitHub repository in reference to your local repository.  When you push or pull things from and to your local repo, you are doing so upstream.
+The upstream remote branch is used for tracking the GitHUb repository then, so that if there are multiple people wworking on a project, it tracks all of them and allows all changes that have been commited and pushed to it to be pulled and seen.
