@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone:  using either http or ssh, the git clone commands compies a repository from GitHub onto your computer. It lets you work on the repository and edit files locally, commiting them to git, but will not change the reposiroty on GitHub unless the changes are pushed back to GitHub.  It also allows you to pull any changes made to the GitHub repository to your local repository.
